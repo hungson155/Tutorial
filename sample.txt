@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Den khi con cung hieu duoc lenh Git 
+=======
+Den khi con cung hieu duoc lenh Git.
+>>>>>>> ede55dab9fde86717a05d28606638bffd14eacfd
